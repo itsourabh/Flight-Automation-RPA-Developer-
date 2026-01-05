@@ -54,21 +54,21 @@ Scripting: JavaScript (for DOM handling)
 Data Handling: Excel / JSON
 Browser: Chrome
 
-Flight-Automation-RPA/
-│
-├── Scripts/
-│   └── flight_selection.js
-│
-├── PAD_Flows/
-│   └── FlightAutomation.pad
-│
-├── Data/
-│   └── Config.xlsx
-│
-├── Screenshots/
-│   └── execution_results.png
-│
-└── README.md
+Main
+ ├── Initiate Flow
+ │    ├── Kill Process
+ │    ├── Read Config File
+ │    └── Environment Setup
+ │
+ ├── Main Business Flow
+ │    ├── BSF001 – File & Column Validation
+ │    ├── BSF002 – Web Automation
+ │    └── BSF003 – Send Mail
+ │
+ ├── Archive File
+ ├── Screenshots Flow
+ └── End / Cleanup
+
 
 
 
