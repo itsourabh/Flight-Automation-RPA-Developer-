@@ -1,0 +1,175 @@
+﻿TimeStamp,ProcessName,MachineName,UserName,TaskName,EventType,Event,EventDescription,ErrorLine,ScreenshotPath,DataValue1,DataValue2,DataValue3
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF001_File and Column Validation,INFO,,Variable 'recValid['CVV']' doesn't have a property 'Length'.,129,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,If
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_11_26_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_112907,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_11_47_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_12_02_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_12_02_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_12_02_04,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_09_00,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_21_27,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_12_37_03,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_12_45_25,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_12_45_25,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_12_45_25,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_00_11,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_01_08_47,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_01_08_47,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_01_08_47,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_14_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_31_37,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_01_40_28,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_02_40_41,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,SQL connection is uninitialized. Please double-check that the correct SQL connection has been specified and that it's used after 'Open SQL connection' and not after it's been closed,10,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Execute SQL statement
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_08_16,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071006,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Comfirmation Not Found,123,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Stop flow
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_13_19,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_071640,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Window wasn't found,14,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Send keys
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_31_26,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073312,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Window wasn't found,14,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Send keys
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_33_48,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073525,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Timeout has expired.,43,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Wait for web page content
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_37_52,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_073949,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Variable 'JsonAsCustomObject' doesn't have a property 'Status'.,128,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Execute SQL statement
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_07_46_01,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Can't move file C:\Users\ASUS\Desktop\Flight Automation - Copy\OUTPUT\TravelerInfo.xlsx into C:\Users\ASUS\Desktop\Flight Automation - Copy\Archive\2026\1\3\OUTPUT_03012026_074855,33,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Move file(s)
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_07_57_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+03-01-2026_08_06_57,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS
+03-01-2026_10_06_41,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+03-01-2026_10_06_41,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+03-01-2026_10_06_41,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES

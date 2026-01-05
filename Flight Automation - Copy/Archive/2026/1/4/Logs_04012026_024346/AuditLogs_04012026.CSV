@@ -1,0 +1,10 @@
+﻿TimeStamp,ProcessName,MachineName,UserName,TaskName,EventType,Event,EventDescription,ErrorLine,ScreenshotPath,DataValue1,DataValue2,DataValue3
+04-01-2026_02_17_47,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Can't connect to data source,11,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Open SQL connection
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF003-Send Mail,INFO,SUCCESSFULLY SEND Mail,Failed to send email message,19,,Send email message through Outlook
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF004_ArchiveFiles,INFO,SUCCESSFULLY ARCHIVED THE DATA,Failed to send email message,19,,
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF006_MainBusinessFlow,,INFO,SUCCESSFULLY COMPLETED THE MAIN BUSINESS FLOW,Failed to send email message,19,,Send email message through Outlook
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES,Failed to send email message,19,,
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,Main,INFO,END OF PROCESS,Failed to send email message,19,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Send email message through Outlook
+04-01-2026_02_36_18,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+04-01-2026_02_36_18,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+04-01-2026_02_36_18,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF003-Send Mail,INFO,SUCCESSFULLY SEND Mail,Failed to send email message,19,,Send email message through Outlook

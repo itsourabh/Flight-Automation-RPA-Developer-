@@ -1,0 +1,3 @@
+﻿TimeStamp,ProcessName,MachineName,UserName,TaskName,EventType,Event,EventDescription,ErrorLine,ScreenshotPath,DataValue1,DataValue2,DataValue3
+04-01-2026_02_17_47,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF002-Web Automation,INFO,,Can't connect to data source,11,C:\Users\ASUS\Desktop\Flight Automation - Copy\SCREENSHOTS,Open SQL connection
+04-01-2026_02_21_33,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF003-Send Mail,INFO,SUCCESSFULLY SEND Mail,Failed to send email message,19,,Send email message through Outlook

@@ -1,0 +1,5 @@
+﻿TimeStamp,ProcessName,MachineName,UserName,TaskName,EventType,Event,EventDescription,ErrorLine,ScreenshotPath,DataValue1,DataValue2,DataValue3
+04-01-2026_01_40_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF001_InitiateFlow,INFO,START OF PROCESS
+04-01-2026_01_40_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF002_ReadTechConfig,INFO,SUCCESSFULLY READ CONFIG FILE
+04-01-2026_01_40_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,SF003_KillProcess,INFO,SUCCESSFULLY KILLED THE PROCESSES
+04-01-2026_01_40_12,Flight Automation - Copy,DESKTOP-3DSBN0A,ASUS,BSF003-Send Mail,INFO,SUCCESSFULLY SEND Mail,Failed to send email message,19,,Send email message through Outlook
